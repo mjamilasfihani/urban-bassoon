@@ -1,3 +1,1 @@
 # urban-bassoon
-
-Hello World!
